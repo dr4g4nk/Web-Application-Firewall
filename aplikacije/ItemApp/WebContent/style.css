@@ -1,0 +1,20 @@
+@charset "UTF-8";
+label {
+	float: left;
+	width: 10%;
+}
+
+table, th, td{
+  border-style: solid;
+  border-width: 1px;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table {
+	width: 100%;
+}
+
+#logout {
+  float: right;
+}

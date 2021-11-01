@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+h1{
+	text-align: center;
+}
+input{
+		display: block;
+		margin: auto;
+}
+#logout {
+  float: right;
+}
